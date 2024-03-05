@@ -1,0 +1,16 @@
+header {
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    border-bottom-color: #CCCCCC;
+    border-bottom: 1px solid;
+}
+
+header object {
+    position: absolute;
+    vertical-align: center;
+    left: 20px;
+} 
+header .container {
+    text-align: center;
+}
